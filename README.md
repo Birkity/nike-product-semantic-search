@@ -1,4 +1,3 @@
-````
 # 🎯 Nike Product Semantic Search Engine
 
 Welcome to the **Nike Product Semantic Search Engine**, an innovative solution designed to revolutionize product recommendations on Nike's e-commerce platform. This repository contains everything you need to run, understand, and extend this semantic search tool.
@@ -33,6 +32,7 @@ This project aims to create a **domain-specific semantic search tool** tailored 
 │   ├── semantic_search_with_embeddings.csv # Dataset with embeddings
 │   └── embeddings_cache.joblib             # Cached embeddings
 ```
+
 ````
 
 ---
@@ -163,3 +163,4 @@ We welcome contributions! 🎉 If you have ideas for enhancements or bug fixes, 
 This project is open-sourced under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
 
 ---
+````
