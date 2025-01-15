@@ -8,10 +8,7 @@ Welcome to the **Nike Product Semantic Search Engine**, an innovative solution d
 
 Watch the demo video to see the **Nike Product Semantic Search Engine** in action:
 
-<video width="600" controls>
-   <source src="demo.mp4" type="video/mp4">
-   Your browser does not support the video tag.
-</video>
+[![Demo Video](https://img.youtube.com/vi/1qbSc5lDnBCL1r45JRcbA-37qfxURhlKi/0.jpg)](https://drive.google.com/file/d/1qbSc5lDnBCL1r45JRcbA-37qfxURhlKi/view?usp=sharing)
 
 ---
 
@@ -160,14 +157,6 @@ We welcome contributions! 🎉 If you have ideas for enhancements or bug fixes, 
 1. **Fork the repository**.
 2. **Create a new branch**.
 3. **Submit a pull request**.
-
----
-
-## 📜 License
-
-This project is open-sourced under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
-
----
 
 ```
 
