@@ -8,7 +8,10 @@ Welcome to the **Nike Product Semantic Search Engine**, an innovative solution d
 
 Watch the demo video to see the **Nike Product Semantic Search Engine** in action:
 
-[![Watch the video](https://img.youtube.com/vi/TODO/0.jpg)](demo.mp4)
+<video width="600" controls>
+   <source src="demo.mp4" type="video/mp4">
+   Your browser does not support the video tag.
+</video>
 
 ---
 
