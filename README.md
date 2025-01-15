@@ -4,6 +4,14 @@ Welcome to the **Nike Product Semantic Search Engine**, an innovative solution d
 
 ---
 
+## 🎥 Demo Video
+
+Watch the demo video to see the **Nike Product Semantic Search Engine** in action:
+
+[![Watch the video](https://img.youtube.com/vi/TODO/0.jpg)](demo.mp4)
+
+---
+
 ## 🌟 Project Overview
 
 This project aims to create a **domain-specific semantic search tool** tailored for Nike products. By leveraging advanced **natural language processing (NLP)** techniques like Sentence-BERT (SBERT), the search engine provides a smarter, more intuitive way to match queries with relevant products.
@@ -33,8 +41,6 @@ This project aims to create a **domain-specific semantic search tool** tailored 
 │   └── embeddings_cache.joblib             # Cached embeddings
 ```
 
-````
-
 ---
 
 ## 🚀 Getting Started
@@ -53,8 +59,6 @@ Ensure you have the following installed:
   - `networkx`
   - `streamlit`
   - `joblib`
-
----
 
 ### ⚙️ Setting Up Your Environment
 
@@ -76,8 +80,6 @@ Ensure you have the following installed:
    ```bash
    pip install -r requirements.txt
    ```
-
----
 
 ## 🏃‍♀️ Running the Application
 
@@ -163,4 +165,7 @@ We welcome contributions! 🎉 If you have ideas for enhancements or bug fixes, 
 This project is open-sourced under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
 
 ---
-````
+
+```
+
+```
